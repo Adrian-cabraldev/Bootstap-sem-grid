@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.img {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    background-image: url(temp_zEFLZfy.png);
+    background-size: auto;
+    border-radius: 10px;
+}
+
